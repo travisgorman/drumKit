@@ -1,1 +1,1 @@
-# About This App
+# JavaScript Drum Kit
