@@ -1,4 +1,4 @@
-# [JavaScript Drum Kit](http://travis.bingo/sampler/)
+# [JavaScript Drum Kit](http://travis.bingo/drumKit/)
 
 # Drum Kit
 A sample-based drum kit triggered by keydown events. 
