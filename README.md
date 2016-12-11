@@ -1,7 +1,6 @@
 # [JavaScript Drum Kit](http://travis.bingo/drumKit/)
 
-# Drum Kit
-A sample-based drum kit triggered by keydown events. 
+## A sample-based drum kit triggered by keydown events. 
 
 The kit is played with the keyboard - not clicks. Clicking the visual representations of the drum pads does nothing. Their purpose is to illustrate a layout of the sounds triggered by the A-L keys on your keyboard and provide visual feedback given when a key is pressed in the form of a yellow border, but the app would be functional without any visual interface at all.
 
